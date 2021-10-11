@@ -86,7 +86,7 @@ export default class News extends Component {
                     {this.state.articles.map((elements) => {
                       return <div className="col-md-4" key={elements.url}>
                              <Card 
-                             title={`${elements.title === null?"sorry no title": elements.title}.slice(0,70)`} 
+                             title={`${elements.title === null?"sorry no title": elements.title}`.slice(0,70)} 
                              description={`${elements.description === null?"sorry no description": elements.description}`.slice(0,100)} 
                              newsImg={elements.urlToImage === null ? "https://via.placeholder.com/350x150" : elements.urlToImage} 
                              newsURL={elements.url}
