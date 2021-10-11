@@ -4,4 +4,5 @@ Please don't mind that japanese it just means NEWS :)
 
 I've used Bootstrap so less CSS in project >-<
 
-![image](https://user-images.githubusercontent.com/77228339/136742998-c24b222d-0462-4608-ac9c-5795960fe154.png)
+![image](https://user-images.githubusercontent.com/77228339/136744003-78320e75-223c-413d-999c-ba2958ddbc80.png)
+
